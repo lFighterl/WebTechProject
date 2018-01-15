@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-image: url(../img/bg.jpg);
+	background-position: top center;
+	background-size: cover;
+}
+.bblogo {
+	margin: 14%;
+}
+.bannerad{
+	margin: 14%;
+}
+.jborder{
+	border: 1px solid deepskyblue ;
+}
+footer{
+	background-color: #444444;
+	padding: .5% 2%
+	color: #fff;
+}
+
